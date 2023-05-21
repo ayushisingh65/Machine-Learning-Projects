@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-It contain projects related to machine learning
+It contains projects related to machine learning
